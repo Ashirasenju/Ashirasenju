@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashirasenju a python dev
-- 👀 I’m interested in AI and Opencv project
+- 👀 I’m interested by the AI and Opencv projects
 - 🌱 I’m currently learning java
 
 <!---
